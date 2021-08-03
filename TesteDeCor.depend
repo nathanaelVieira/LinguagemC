@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628019195 source:c:\workspaceprogrammer\workspacec\testedecor\program.c
+	<stdio.h>
+	<windows.h>
+
